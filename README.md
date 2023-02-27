@@ -10,24 +10,24 @@ I created a full-stack application for a restaurant to allow users to create/upd
 
 ## Tools and Technology used
 
-*Node.js
-*React
-*React Hooks
-*React Router
-*Express
-*Knex
-*PostgreSQL
-*HTML5
-*CSS
-*Bootstrap
-*RESTful APIs
-*Javascript
+- Node.js
+- React
+- React Hooks
+- React Router
+- Express
+- Knex
+- PostgreSQL
+- HTML5
+- CSS
+- Bootstrap
+- RESTful APIs
+- Javascript
 
 ### Run Locally and please follow intructions below
 
-Fork & Clone the repostory
-Run npm install
-Run npm run start:dev to start
+- Fork & Clone the repostory
+- Run npm install
+- Run npm run start:dev to start
 
 | Folder/file path | Description                                                      |
 | ---------------- | ---------------------------------------------------------------- |
